@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790790551598,
+      "tag": "0000_tense_black_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790847646749,
+      "tag": "0001_icy_vulcan",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790847718043,
+      "tag": "0002_fat_greymalkin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790849528259,
+      "tag": "0003_bizarre_blazing_skull",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1790849599240,
+      "tag": "0004_graceful_owl",
+      "breakpoints": true
+    }
+  ]
+}

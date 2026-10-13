@@ -1,0 +1,60 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.vinext/
+/out/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+next-env.d.ts
+/dist/
+/.wrangler/
+/outputs/
+/work/
+
+# Local personal voice-message input
+WhatsApp Audio 2026-09-29 at 22.39.15.opus
+/sushma-daal-roti-sample.mp3
+/MealWise Architecture.docx
+!.env.example
+
+# Local executor access credential (never publish)
+.meal-agent-executor.json
+
+.grocery-cart-owner.json
+
+# Personal recordings and local runtime credentials
+*.opus
+*.mp3
+*.ogg
+*.wav
+.meal-agent-executor.json

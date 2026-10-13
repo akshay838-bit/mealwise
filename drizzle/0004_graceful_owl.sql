@@ -1,0 +1,1 @@
+ALTER TABLE `grocery_requests` ADD `selection_notes` text;
